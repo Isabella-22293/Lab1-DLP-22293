@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/Shapes/classes_gen/
+/languages/Shapes/generator/classes_gen/
+/languages/Shapes.sandbox/classes_gen/
